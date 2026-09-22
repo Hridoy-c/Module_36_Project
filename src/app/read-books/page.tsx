@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ReadBookPage = () => {
+const page = () => {
   return (
     <div>
-       <h1>Read</h1>
+      <h1>Read Books</h1>
     </div>
   )
 }
 
-export default ReadBookPage
+export default page
